@@ -1,0 +1,6 @@
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.csproj.AssemblyReference.cache
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfoInputs.cache
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfo.cs
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.csproj.CoreCompileInputs.cache
+/workspaces/Lab4-Entity/my-console-app/obj/Debug/net6.0/my-console-app.sourcelink.json
